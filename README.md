@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" alt="Coupio app icon" width="160" />
+</p>
+
 # Coupio
 
 Coupio is an Android app for storing, organizing, and manually issuing coupons from a single device.
