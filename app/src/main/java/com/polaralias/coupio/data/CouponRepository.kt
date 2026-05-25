@@ -42,7 +42,7 @@ class CouponRepository(
         val mediaFile = mediaStorage.persist(input)
         val coupon = CouponEntity(
             id = UUID.randomUUID().toString(),
-            mediaPath = mediaFile.absolutePath,
+            mediaPath = mediaFile.path,
             mediaType = input.mediaType,
             mediaMimeType = input.mediaMimeType,
             mediaDisplayName = input.mediaDisplayName,
