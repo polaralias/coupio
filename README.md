@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-round.png" alt="Coupio app icon" width="180" />
+  <img src="Coupio%20Banner.png" alt="Coupio banner" width="960" />
 </p>
 
 # Coupio
